@@ -12,6 +12,13 @@ h1{
 }
 
 
+
+h2{
+  text-align: justify;
+  color:black;
+  font-style: italic;
+  text-align: center;
+}
 .message-box {
   width: 900px;
   max-width: calc(100% - 20px);
